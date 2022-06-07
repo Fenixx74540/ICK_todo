@@ -1,0 +1,7 @@
+﻿README
++++++++++
+
+Do not delete this folder the database will be generated here
+
+Database Server: SQLite
+Database Name: fanya.db
